@@ -14,5 +14,8 @@
   ],
   "peerDependencies": {
     "angular": "1.x"
+  },
+  "dependencies": {
+    "tinyformatter": "^0.2.3"
   }
 }
