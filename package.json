@@ -1,6 +1,6 @@
 {
   "name": "ng-formatter",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "angular formatter",
   "main": "ng-formatter.js",
   "repository": "attrs/ng-formatter",
